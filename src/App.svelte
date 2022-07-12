@@ -16,12 +16,12 @@
 
   /***********************************/
   // Customise the app by changing the following variables.
-  const TITLE = "Shapes";
-  const DESCRTIPTION = "A collection of shapes on the blockchain";
-  const HEADER_TITLE = "shapes.xyz";
-  const HEADER_LINK = "https://solarare.com";
+  const TITLE = "Stoners";
+  const DESCRTIPTION = "Highest on the block.";
+  const HEADER_TITLE = "stoners.app";
+  const HEADER_LINK = "https://stoners.app";
   // Your image or GIF needs to be in the /public folder for this to work
-  const IMAGE_LINK = "/example.gif";
+  const IMAGE_LINK = "/example.png";
   /***********************************/
 
   let { solana } = window as any;
